@@ -4,5 +4,17 @@
 
 ## Profile
 - harxxxx
-- 北海道
-- 得意領域
+- Hokkaido
+
+# Skill
+- OS(Mac, Windows, Ubuntu)
+- Language(C#, Java, JavaScript)
+- Engine, Freamwork(Node.js, Express)
+- Tool(Git, PostgreSQL, Oracle)
+
+# Works
+CreateApp
+
+# Contact
+Mail: 
+
